@@ -1,0 +1,6 @@
+streamlit
+cryptography
+flask
+flask-cors
+pyngrok
+requests
